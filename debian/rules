@@ -1,0 +1,6 @@
+#!/usr/bin/make -f
+
+export DH_GOPKG := github.com/gorilla/mux
+
+%:
+	dh $@ --buildsystem=golang --with=golang

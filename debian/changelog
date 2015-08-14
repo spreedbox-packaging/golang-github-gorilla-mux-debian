@@ -1,0 +1,27 @@
+golang-github-gorilla-mux (0.0~git20150814.0.f7b6aaa-1) unstable; urgency=medium
+
+  * Upstream bump to f7b6aaa (2015-08-14).
+
+ -- Tianon Gravi <admwiggin@gmail.com>  Fri, 14 Aug 2015 16:18:20 -0600
+
+golang-mux (0.0~git20140505.1.136d54f-2) unstable; urgency=medium
+
+  * Team upload.
+  * Update copyright to match body of the license, BSD-3, not MIT/Expat.
+    Thanks for that catch, alteholz.
+
+ -- Paul Tagliamonte <paultag@debian.org>  Thu, 12 Jun 2014 22:07:36 -0400
+
+golang-mux (0.0~git20140505.1.136d54f-1) unstable; urgency=medium
+
+  * We're hijacking the golang-mux-dev bianry because we want a source
+    rename to bring it in-line with go policy.
+  * Upstream bump to 136d54f (2014-05-05)
+
+ -- Tianon Gravi <admwiggin@gmail.com>  Wed, 11 Jun 2014 21:18:57 -0400
+
+golang-mux-dev (0.0~git20130701-1) unstable; urgency=low
+
+  * Initial release (Closes: #714805)
+
+ -- Daniel Mizyrycki <mzdaniel@glidelink.net>  Fri, 13 Jul 2013 11:19:06 -0700
